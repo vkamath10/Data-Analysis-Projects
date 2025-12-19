@@ -14,5 +14,4 @@ Analyze airline flight delays across airports and airlines and predict delay ris
 - Weather and congestion impact
 - Delay prediction using classification models
 
-🔗 **Full Project Repository**  
-👉 https://github.com/<your-username>/airline-flight-delay-analysis-prediction
+
