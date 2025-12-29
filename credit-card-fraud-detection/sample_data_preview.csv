@@ -1,0 +1,11 @@
+TransactionAmt,ProductCD,card4,card6,DeviceType,DeviceInfo,addr1,addr2,P_emaildomain,R_emaildomain,isFraud
+68.5,W,visa,credit,desktop,Windows,315,87,gmail.com,hotmail.com,0
+120.0,H,mastercard,debit,mobile,iPhone,420,87,yahoo.com,,0
+250.75,C,visa,credit,desktop,MacOS,325,87,gmail.com,gmail.com,1
+45.0,W,discover,credit,,Unknown,476,87,,hotmail.com,0
+89.99,S,visa,debit,mobile,Samsung,330,87,outlook.com,,0
+560.0,H,mastercard,credit,desktop,Windows,310,87,gmail.com,yahoo.com,1
+15.99,W,visa,credit,mobile,iPhone,299,87,,gmail.com,0
+1020.0,C,amex,credit,desktop,MacOS,450,87,hotmail.com,hotmail.com,1
+33.5,S,visa,debit,mobile,Android,340,87,outlook.com,,0
+210.0,H,mastercard,credit,desktop,Windows,390,87,gmail.com,,0
